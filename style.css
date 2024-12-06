@@ -1,9 +1,12 @@
+/* %Universal style */
 * {
   scroll-behavior: smooth;
 }
+/* %Body Font Family */
 body {
   font-family: "Manrope", sans-serif;
 }
+/* %Hero Title Heading Font Family */
 #heading {
   font-family: "Montagu Slab", serif;
 }
